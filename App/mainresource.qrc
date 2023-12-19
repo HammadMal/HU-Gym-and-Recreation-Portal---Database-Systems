@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="Images">
+    <file>resources/HU-LOGO--01.jpg</file>
+  </qresource>
+</RCC>
